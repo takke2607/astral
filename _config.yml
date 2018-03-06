@@ -1,0 +1,11 @@
+# Base configs
+baseurl: "astral"
+
+# UI configs
+title: "Vatsal Mistry"
+name: "Vatsal Mistry"
+bio: "A Pythonista"
+social_urls:
+  facebook: "https://www.facebook.com/mistryvatsal"
+  twitter: "https://www.twitter.com/mistryvatsal11"
+  instagram: "https://www.instagram.com/mistryvatsal42"
