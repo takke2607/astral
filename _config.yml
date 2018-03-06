@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "astral"
+baseurl: "/astral/"
 
 # UI configs
 title: "Vatsal Mistry"
