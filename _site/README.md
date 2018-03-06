@@ -1,4 +1,4 @@
-# ProfileFlat
+# Astral
 
 A single page profile web template powered by Jekyll.
 
@@ -8,11 +8,11 @@ It is a flat design single page card style profile site that runs the liquid pow
 
 ### Have a look?
 
-[ProfileFlat](https://mistryvatsal.github.io/profileflat/)
+[Astral](https://mistryvatsal.github.io/astral/)
 
 ### How to use?
 
-To use ProfileFlat as your profile website, 
+To use Astral as your profile website, 
 
 
 * Fork this repository.
@@ -20,8 +20,8 @@ To use ProfileFlat as your profile website,
 * Edit the _config.yml file with your details.
     * make the baseurl: "" (Empty)
     * title as the title for your webpage.
-    * author as your name.
-    * about as your single line bio.
+    * name as your name.
+    * bio as your single line bio.
     * update your social media links of facebook twitter and instagram. If not any, then make it as "#".
 * Save and commit the changes.
 * Go to the settings of the repository and enable the  github pages.
@@ -33,8 +33,8 @@ The website will be live at "https://[yourusername].github.io"
 * [Jekyll](https://jekyllrb.com/) - The static site generator.
 
 ## Contributing
-
-Made with ❤ by [Vatsal Mistry.](https://mistryvatsal.github.io)
+* Design by : [HTML5UP](http://html5up.net/)
+* Jekyllifed with ❤ by [Vatsal Mistry.](https://mistryvatsal.github.io)
 
 
 
