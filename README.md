@@ -33,7 +33,6 @@ The website will be live at "https://[yourusername].github.io"
 * [Jekyll](https://jekyllrb.com/) - The static site generator.
 
 ## Contributing
-* Design by : [HTML5UP](http://html5up.net/)
 * Jekyllifed with ❤ by [Vatsal Mistry.](https://mistryvatsal.github.io)
 
 
